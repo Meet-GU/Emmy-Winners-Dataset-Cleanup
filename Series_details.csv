@@ -1,0 +1,101 @@
+id,titleText,Title_Type,topRanking,Aggregate_Rating,Vote_Count,Release_Year,End_Year,isAdult,is_Series
+tt10168312,What If...?,TV Series,1462,7.4,138245,2021,0,False,True
+tt2802850,Fargo,TV Series,43,8.9,403292,2014,2024,False,True
+tt4786824,The Crown,TV Series,128,8.6,248126,2016,2023,False,True
+tt0944947,Game of Thrones,TV Series,13,9.2,2240726,2011,2019,False,True
+tt2356777,True Detective,TV Series,38,8.9,620475,2014,0,False,True
+tt4406178,The Gilded Age,TV Series,808,8.0,35004,2022,0,False,True
+tt2861424,Rick and Morty,TV Series,16,9.1,586492,2013,0,False,True
+tt1190634,The Boys,TV Series,90,8.7,619070,2019,0,False,True
+tt14452776,The Bear,TV Series,167,8.6,176769,2022,0,False,True
+tt7772588,For All Mankind,TV Series,714,8.1,60772,2019,0,False,True
+tt8682948,The Act,TV Mini Series,883,7.9,35122,2019,2019,False,True
+tt0903747,Breaking Bad,TV Series,1,9.5,2084513,2008,2013,False,True
+tt0413573,Grey's Anatomy,TV Series,1448,7.6,334876,2005,0,False,True
+tt1520211,The Walking Dead,TV Series,745,8.1,1062331,2010,2022,False,True
+tt0108778,Friends,TV Series,51,8.9,1067978,1994,2004,False,True
+tt10986410,Ted Lasso,TV Series,79,8.8,327799,2020,2023,False,True
+tt0141842,The Sopranos,TV Series,9,9.2,453466,1999,2007,False,True
+tt1586680,Shameless,TV Series,211,8.5,273806,2011,2021,False,True
+tt0386676,The Office,TV Series,26,9.0,687518,2005,2013,False,True
+tt4574334,Stranger Things,TV Series,105,8.7,1304381,2016,2025,False,True
+tt7660850,Succession,TV Series,50,8.9,251816,2018,2023,False,True
+tt3581920,The Last of Us,TV Series,75,8.8,483738,2023,0,False,True
+tt2085059,Black Mirror,TV Series,73,8.7,625642,2011,0,False,True
+tt0898266,The Big Bang Theory,TV Series,670,8.2,853277,2007,2019,False,True
+tt11198330,House of the Dragon,TV Series,283,8.5,354340,2022,0,False,True
+tt1844624,American Horror Story,TV Series,852,8.0,339138,2011,0,False,True
+tt0203259,Law & Order: Special Victims Unit,TV Series,790,8.1,119983,1999,0,False,True
+tt2306299,Vikings,TV Series,294,8.5,570636,2013,2020,False,True
+tt8772296,Euphoria,TV Series,424,8.3,227568,2019,0,False,True
+tt1442437,Modern Family,TV Series,267,8.5,471097,2009,2020,False,True
+tt0185906,Band of Brothers,TV Mini Series,4,9.4,511169,2001,2001,False,True
+tt0121955,South Park,TV Series,76,8.7,400651,1997,0,False,True
+tt0098904,Seinfeld,TV Series,39,8.9,344523,1989,1998,False,True
+tt0412142,House,TV Series,98,8.7,498832,2004,2012,False,True
+tt13406094,The White Lotus,TV Series,847,7.9,192689,2021,2025,False,True
+tt8111088,The Mandalorian,TV Series,115,8.7,573101,2019,0,False,True
+tt11691774,Only Murders in the Building,TV Series,696,8.1,148278,2021,0,False,True
+tt7203552,The Morning Show,TV Series,559,8.2,125104,2019,0,False,True
+tt11280740,Severance,TV Series,101,8.7,184587,2022,0,False,True
+tt2467372,Brooklyn Nine-Nine,TV Series,308,8.4,351516,2013,2021,False,True
+tt0106179,The X-Files,TV Series,131,8.6,244551,1993,2018,False,True
+tt0411008,Lost,TV Series,401,8.3,585623,2004,2010,False,True
+tt0182576,Family Guy,TV Series,590,8.2,359632,1999,0,False,True
+tt0096697,The Simpsons,TV Series,96,8.7,430455,1989,0,False,True
+tt8740790,Bridgerton,TV Series,1557,7.4,162173,2020,0,False,True
+tt0248654,Six Feet Under,TV Series,82,8.7,146003,2001,2005,False,True
+tt4158110,Mr. Robot,TV Series,194,8.5,412026,2015,2019,False,True
+tt0106004,Frasier,TV Series,533,8.2,93552,1993,2004,False,True
+tt0238784,Gilmore Girls,TV Series,546,8.2,144338,2000,2007,False,True
+tt13443470,Wednesday,TV Series,700,8.1,345510,2022,0,False,True
+tt1606375,Downton Abbey,TV Series,95,8.7,220718,2010,2015,False,True
+tt1475582,Sherlock,TV Series,21,9.1,980888,2010,2017,False,True
+tt2741602,The Blacklist,TV Series,955,7.9,274996,2013,2023,False,True
+tt0312172,Monk,TV Series,726,8.1,82643,2002,2009,False,True
+tt0773262,Dexter,TV Series,133,8.7,754977,2006,2013,False,True
+tt14403178,Beef,TV Mini Series,746,8.0,114166,2023,2023,False,True
+tt0369179,Two and a Half Men,TV Series,1745,7.1,277010,2003,2015,False,True
+tt0098844,Law & Order,TV Series,974,7.8,42929,1990,0,False,True
+tt0460649,How I Met Your Mother,TV Series,489,8.3,719239,2005,2014,False,True
+tt0804503,Mad Men,TV Series,103,8.7,256593,2007,2015,False,True
+tt0264235,Curb Your Enthusiasm,TV Series,59,8.8,139830,2000,2024,False,True
+tt0108757,ER,TV Series,940,7.9,66417,1994,2009,False,True
+tt0092455,Star Trek: The Next Generation,TV Series,106,8.7,132957,1987,1994,False,True
+tt7908628,What We Do in the Shadows,TV Series,174,8.6,98199,2019,2024,False,True
+tt5834204,The Handmaid's Tale,TV Series,384,8.4,253719,2017,0,False,True
+tt7366338,Chernobyl,TV Mini Series,5,9.3,840548,2019,2019,False,True
+tt1486217,Archer,TV Series,155,8.6,163900,2009,2023,False,True
+tt14269590,Poker Face,TV Series,964,7.9,44153,2023,0,False,True
+tt0279600,Smallville,TV Series,1376,7.5,136036,2001,2011,False,True
+tt1439629,Community,TV Series,237,8.5,287699,2009,2015,False,True
+tt5071412,Ozark,TV Series,273,8.5,338816,2017,2022,False,True
+tt0475784,Westworld,TV Series,232,8.5,526688,2016,2022,False,True
+tt0118276,Buffy the Vampire Slayer,TV Series,460,8.3,157410,1997,2003,False,True
+tt1561755,Bob's Burgers,TV Series,554,8.2,90242,2011,0,False,True
+tt2017109,Banshee,TV Series,330,8.4,120510,2013,2016,False,True
+tt1489428,Justified,TV Series,166,8.6,116261,2010,2015,False,True
+tt3526078,Schitt's Creek,TV Series,227,8.5,140713,2015,2020,False,True
+tt10919420,Squid Game,TV Series,792,8.0,520803,2021,0,False,True
+tt0844441,True Blood,TV Series,976,7.9,257714,2008,2014,False,True
+tt11126994,Arcane,TV Series,27,9.0,256239,2021,0,False,True
+tt0083399,Cheers,TV Series,813,8.0,60809,1982,1993,False,True
+tt1796960,Homeland,TV Series,407,8.3,357396,2011,2020,False,True
+tt5788792,The Marvelous Mrs. Maisel,TV Series,107,8.7,139815,2017,2023,False,True
+tt10048342,The Queen's Gambit,TV Mini Series,178,8.5,530320,2020,2020,False,True
+tt2372162,Orange Is the New Black,TV Series,757,8.0,316993,2013,2019,False,True
+tt0200276,The West Wing,TV Series,58,8.9,83807,1999,2006,False,True
+tt0098936,Twin Peaks,TV Series,68,8.8,211332,1990,1991,False,True
+tt5348176,Barry,TV Series,366,8.4,118295,2018,2023,False,True
+tt0060028,Star Trek,TV Series,358,8.4,91167,1966,1969,False,True
+tt0758790,The Tudors,TV Series,673,8.1,79956,2007,2010,False,True
+tt1856010,House of Cards,TV Series,122,8.6,525607,2013,2018,False,True
+tt0068098,M*A*S*H,TV Series,288,8.5,62460,1972,1983,False,True
+tt0086770,Night Court,TV Series,1084,7.7,17459,1984,1992,False,True
+tt0212671,Malcolm in the Middle,TV Series,573,8.2,140290,2000,2006,False,True
+tt0410975,Desperate Housewives,TV Series,1265,7.6,137532,2004,2012,False,True
+tt0106145,Star Trek: Deep Space Nine,TV Series,660,8.1,69367,1993,1999,False,True
+tt0979432,Boardwalk Empire,TV Series,165,8.6,200608,2010,2014,False,True
+tt5555260,This Is Us,TV Series,123,8.7,154700,2016,2022,False,True
+tt0417299,Avatar: The Last Airbender,TV Series,7,9.3,351527,2005,2008,False,True
+tt0052520,The Twilight Zone,TV Series,20,9.1,91192,1959,1964,False,True
